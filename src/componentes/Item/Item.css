@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.tarjeta{
+    background-color: rgb(109, 243, 127);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40vw;
+    flex-direction: column;
+    border-radius: 30px;
+    margin-top: 3%;
+}
+img{
+    max-width: 50%;
+}
+button{
+    margin-bottom: 5%;
+}
